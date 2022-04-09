@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vlad youtube mern",
+  "mongoUri": "mongodb+srv://vlad:electro@cluster0.fylpy.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
